@@ -18,6 +18,7 @@ const Video: FC<{ src: string }> = ({ src }) => {
       autoPlay
       loop
       muted
+      playsInline
       style={{
         position: 'fixed',
         width: '100%',
