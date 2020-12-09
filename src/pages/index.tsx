@@ -24,16 +24,7 @@ export async function getStaticProps() {
 }
 
 
-const Home: NextPage = ({ 
-  allPostsData 
-}:{
-  allPostsData: {
-    date: string
-    title: string
-    id: string
-  }[]
-
-}) => {
+const Home: NextPage = ({allPostsData }) => {
   return (
     <>
       <Container>
