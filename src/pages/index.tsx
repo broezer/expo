@@ -24,7 +24,16 @@ export async function getStaticProps() {
 }
 
 
-const Home: NextPage = ({ allPostsData }) => {
+const Home: NextPage = ({ 
+  allPostsData 
+}:{
+  allPostsData: {
+    date: string
+    title: string
+    id: string
+  }[]
+
+}) => {
   return (
     <>
       <Container>
@@ -36,15 +45,15 @@ const Home: NextPage = ({ allPostsData }) => {
         <section >
           <h2>Blog</h2>
           <ul>
-            {allPostsData.map(({ id, date, title }) => (
-              <li key={id}>
-                {title}
-                <br />
-                {id}
-                <br />
-                {date}
-              </li>
-            ))}
+          {allPostsData.map(({ id, title }) => (
+            <li key={id}>
+              <Link href={`/posts/${id}`}>
+                <a>{title}</a>
+              </Link>
+              <br />
+              
+             </li>
+           ))}
           </ul>
         </section>
         <Main>
