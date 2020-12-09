@@ -1,4 +1,5 @@
 import React from 'react';
+import {MDXProvider} from '@mdx-js/react'
 import { createGlobalStyle, ThemeProvider } from 'styled-components';
 
 import Video from '@/components/Video';
@@ -28,14 +29,22 @@ const theme = {
   }
 };
 
+const mdComponents = {
+  h1: props => <h1 style={{color: 'tomato'}} {...props} />
+}
+
+
 export default function App({ Component, pageProps }) {
   return (
     <>
       <GlobalStyle />
       <ThemeProvider theme={theme}>
         <Video src="https://uploads.codesandbox.io/uploads/user/979de439-4f3c-445b-ab75-ec2ce2f24a5f/o61a-Neon.mp4" />
-        <Component {...pageProps} />
+        <MDXProvider components={mdComponents}>
+          <Component {...pageProps} />
+        </MDXProvider>
       </ThemeProvider>
     </>
   );
 }
+
