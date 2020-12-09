@@ -12,7 +12,28 @@ import Grid from '@/components/Grid';
 import Main from '@/components/Main';
 import Title from '@/components/Title';
 
-const Home: NextPage = () => {
+import { getSortedPostsData } from '../../lib/posts';
+
+export async function getStaticProps() {
+  const allPostsData = getSortedPostsData()
+  return {
+    props: {
+      allPostsData
+    }
+  }
+}
+
+
+const Home: NextPage = ({ 
+  allPostsData 
+}:{
+  allPostsData: {
+    date: string
+    title: string
+    id: string
+  }[]
+
+}) => {
   return (
     <>
       <Container>
@@ -20,7 +41,21 @@ const Home: NextPage = () => {
           <title>Create Next App</title>
           <link href="/favicon.ico" rel="icon" />
         </Head>
-
+        
+        <section >
+          <h2>Blog</h2>
+          <ul>
+          {allPostsData.map(({ id, title }) => (
+            <li key={id}>
+              <Link href={`/posts/${id}`}>
+                <a>{title}</a>
+              </Link>
+              <br />
+              
+             </li>
+           ))}
+          </ul>
+        </section>
         <Main>
           <Title>
             Welcome to <a href="https://nextjs.org">Next.js!</a>
