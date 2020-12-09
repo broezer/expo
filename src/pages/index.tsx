@@ -1,5 +1,5 @@
 import { NextPage } from 'next';
-import { GetStaticProps } from 'next'
+import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import React from 'react';
@@ -24,15 +24,15 @@ export const getStaticProps: GetStaticProps = async () => {
   }
 }
 
+type allPostsData = {
+  children: {
+    date: string
+    title: string
+    id: string
+  }
+}
 
-const Home: NextPage = ({allPostsData
-  }: {
-    allPostsData: {
-      date: string
-      title: string
-      id: string
-    }[]
-  }) => {
+const Home: NextPage = ({allPostsData}) => {
   return (
     <>
       <Container>
@@ -41,18 +41,18 @@ const Home: NextPage = ({allPostsData
           <link href="/favicon.ico" rel="icon" />
         </Head>
         
-        <section >
-          <h2>Blog</h2>
+        <section>
+         
           <ul>
-          {allPostsData.map(({ id, title }) => (
-            <li key={id}>
-              <Link href={`/posts/${id}`}>
-                <a>{title}</a>
-              </Link>
-              <br />
-              
-             </li>
-           ))}
+            {allPostsData.map(({ id, date, title }) => (
+              <li  key={id}>
+                {title}
+                <br />
+                {id}
+                <br />
+               
+              </li>
+            ))}
           </ul>
         </section>
         <Main>
