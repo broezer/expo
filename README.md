@@ -1,3 +1,7 @@
+# Next.js + styled-components + background video
+
+> see [`src/pages/_app.tsx`](src/pages/_app.tsx#L36)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
