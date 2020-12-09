@@ -14,7 +14,7 @@ import Title from '@/components/Title';
 
 import { getSortedPostsData } from '../../lib/posts';
 
-export async function getStaticProps() {
+export const getStaticProps: GetStaticProps = async () => {
   const allPostsData = getSortedPostsData()
   return {
     props: {
@@ -24,16 +24,14 @@ export async function getStaticProps() {
 }
 
 
-const Home: NextPage = ({ 
-  allPostsData 
-}:{
-  allPostsData: {
-    date: string
-    title: string
-    id: string
-  }[]
-
-}) => {
+const Home: NextPage = ({allPostsData
+  }: {
+    allPostsData: {
+      date: string
+      title: string
+      id: string
+    }[]
+  }) => {
   return (
     <>
       <Container>
