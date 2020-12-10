@@ -1,4 +1,5 @@
 import { NextPage } from 'next';
+import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import React from 'react';
@@ -14,6 +15,18 @@ import Title from '@/components/Title';
 
 import { getSortedPostsData } from '../../lib/posts';
 
+
+
+interface Post {
+  date: string;
+  title: string;
+  id: string;
+}
+
+interface IProps {
+  allPostsData: Post[];
+} 
+
 export const getStaticProps: GetStaticProps = async () => {
   const allPostsData = getSortedPostsData()
   return {
@@ -23,15 +36,7 @@ export const getStaticProps: GetStaticProps = async () => {
   }
 }
 
-
-const Home: NextPage = ({allPostsData
-  }: {
-    allPostsData: {
-      date: string
-      title: string
-      id: string
-    }[]
-  }) => {
+const Home: NextPage<IProps> = ({allPostsData}) => {
   return (
     <>
       <Container>
@@ -40,24 +45,23 @@ const Home: NextPage = ({allPostsData
           <link href="/favicon.ico" rel="icon" />
         </Head>
         
-        <section >
-          <h2>Blog</h2>
-          <ul>
-          {allPostsData.map(({ id, title }) => (
-            <li key={id}>
-              <Link href={`/posts/${id}`}>
-                <a>{title}</a>
-              </Link>
-              <br />
-              
-             </li>
-           ))}
-          </ul>
-        </section>
+        
         <Main>
           <Title>
             Welcome to <a href="https://nextjs.org">Next.js!</a>
           </Title>
+
+          <ul>
+            {allPostsData.map(({ id, date, title }) => (
+              <li key={id}>
+                <Link href={`/posts/${id}`}>
+                  <a>{title}</a>
+                </Link>
+                <br />
+                
+              </li>
+            ))}
+          </ul>
 
           <Description>
             Get started by editing <Code>pages/index.js</Code>
@@ -104,4 +108,6 @@ const Home: NextPage = ({allPostsData
     </>
   );
 };
+
+
 export default Home;
