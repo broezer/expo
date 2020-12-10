@@ -67,6 +67,8 @@ const Home: NextPage<IProps> = ({allPostsData}) => {
             Get started by editing <Code>pages/index.js</Code>
           </Description>
 
+          <iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_lbs9kmU=/?moveToViewport=-813,-457,1625,913" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+
           <Grid>
             <Link href="/regular-css" passHref>
               <Card>
