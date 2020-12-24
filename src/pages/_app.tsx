@@ -10,8 +10,13 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
       Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+      color:white;
   }
 
+  body{
+    background:black;
+  }
+  
   a {
     color: inherit;
     text-decoration: none;
@@ -24,7 +29,7 @@ const GlobalStyle = createGlobalStyle`
 
 const theme = {
   colors: {
-    primary: '#0070f3'
+    primary: '#FF00FF'
   }
 };
 
@@ -33,7 +38,7 @@ export default function App({ Component, pageProps }) {
     <>
       <GlobalStyle />
       <ThemeProvider theme={theme}>
-        <Video src="https://uploads.codesandbox.io/uploads/user/979de439-4f3c-445b-ab75-ec2ce2f24a5f/o61a-Neon.mp4" />
+        <Video src="https://player.vimeo.com/external/494532882.hd.mp4?s=ad7ca70b1861433a0ac257cd5965d72db4fd2daf&profile_id=175" />
         <Component {...pageProps} />
       </ThemeProvider>
     </>

@@ -48,7 +48,7 @@ const Home: NextPage<IProps> = ({allPostsData}) => {
         
         <Main>
           <Title>
-            Welcome to <a href="https://nextjs.org">Next.js!</a>
+            Welcome to <a href="https://nextjs.org">IUXD &amp; DI EXPO!</a>
           </Title>
 
           <ul>

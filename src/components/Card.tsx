@@ -30,8 +30,8 @@ const Card = styled.a`
   &:hover,
   &:focus,
   &:active {
-    color: #0070f3;
-    border-color: #0070f3;
+    color: #FF00FF;
+    border-color: #FF00FF;
   }
 
   h3 {

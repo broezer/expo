@@ -6,7 +6,7 @@ const Title = styled.h1`
   font-size: 4rem;
   text-align: center;
   a {
-    color: #0070f3;
+    color: #FF00FF;
     text-decoration: none;
     &:hover,
     &:focus,
