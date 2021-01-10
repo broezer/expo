@@ -15,6 +15,8 @@ import Main from '@/components/Main';
 import Title from '@/components/Title';
 
 import { getSortedPostsData } from '../../lib/posts';
+import { getSortedDIPostsData } from '../../lib/di-posts';
+
 
 interface Post {
   date: string;
@@ -24,18 +26,23 @@ interface Post {
 
 interface IProps {
   allPostsData: Post[];
+  allDIPostsData: Post[];
 } 
 
 export const getStaticProps: GetStaticProps = async () => {
   const allPostsData = getSortedPostsData()
+  const allDIPostsData = getSortedDIPostsData()
   return {
     props: {
-      allPostsData
+      allPostsData,
+      allDIPostsData
     }
   }
 }
 
-const Home: NextPage<IProps> = ({allPostsData}) => {
+
+
+const Home: NextPage<IProps> = ({allPostsData, allDIPostsData}) => {
   return (
     <>
       <Container>
@@ -50,6 +57,18 @@ const Home: NextPage<IProps> = ({allPostsData}) => {
             {allPostsData.map(({ id, date, title }) => (
               <li key={id} className="py-2 px-3 text-3xl font-medium  hover:text-purple-600 transition duration-300 ease-in-out">
                 <Link href={`/team/${id}`}>
+                  <a>{title}</a>
+                </Link>
+                <br />
+                
+              </li>
+            ))}
+          </ul>
+
+          <ul className="container no-underline flex flex-wrap  justify-start text-white">
+            {allDIPostsData.map(({ id, date, title }) => (
+              <li key={id} className="py-2 px-3 text-3xl font-medium  hover:text-purple-600 transition duration-300 ease-in-out">
+                <Link href={`/student/${id}`}>
                   <a>{title}</a>
                 </Link>
                 <br />
