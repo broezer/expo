@@ -69,7 +69,7 @@ const Home: NextPage<IProps> = ({allPostsData}) => {
           </Grid>
         </Main>
 
-        <Footer />
+       
       </Container>
     </>
   );
