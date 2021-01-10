@@ -64,21 +64,6 @@ const Home: NextPage<IProps> = ({allPostsData, allDIPostsData}) => {
               </li>
             ))}
           </ul>
-
-          <ul className="container no-underline flex flex-wrap  justify-start text-white">
-            {allDIPostsData.map(({ id, date, title }) => (
-              <li key={id} className="py-2 px-3 text-3xl font-medium  hover:text-purple-600 transition duration-300 ease-in-out">
-                <Link href={`/student/${id}`}>
-                  <a>{title}</a>
-                </Link>
-                <br />
-                
-              </li>
-            ))}
-          </ul>
-
-
-
           <Grid>
             
           </Grid>
