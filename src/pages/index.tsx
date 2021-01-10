@@ -46,15 +46,11 @@ const Home: NextPage<IProps> = ({allPostsData}) => {
         
         
         <Main>
-          <Title>
-            Welcome to <a href="https://nextjs.org">IUXD &amp; DI EXPO!</a>
-          </Title>
-
-          <ul className="no-underline space-y-2">
+          <ul className="container no-underline flex flex-wrap  justify-start">
             {allPostsData.map(({ id, date, title }) => (
-              <li key={id}>
+              <li key={id} className="py-2 px-3 text-3xl hover:text-purple-600 transition duration-300 ease-in-out">
                 <Link href={`/posts/${id}`}>
-                  {title}
+                  <a>{title}</a>
                 </Link>
                 <br />
                 

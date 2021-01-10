@@ -1,6 +1,16 @@
 ---
 title: 'Human Inspired'
 date: '2020-01-13'
+members:
+    -   name: Noa van Groen
+        img:
+    -   name: Eva Hellenthal
+        img:
+    -   name: Lotte Arnoldussen
+        img:
+    -   name: Josephin Cheang
+        img: 
+
 ---
 
 We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
