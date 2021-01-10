@@ -54,7 +54,7 @@ const Home: NextPage<IProps> = ({allPostsData}) => {
             {allPostsData.map(({ id, date, title }) => (
               <li key={id}>
                 <Link href={`/posts/${id}`}>
-                  <a>{title}</a>
+                  {title}
                 </Link>
                 <br />
                 
