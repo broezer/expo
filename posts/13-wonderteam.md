@@ -1,11 +1,17 @@
 ---
 title: 'Wonderteam'
 date: '2020-01-01'
+members:
+    -   name: Anouk van Pelt
+        img:
+    -   name: Jerry-Lee Bosmans
+        img:
+    -   name: Laurens Vastenhout
+        img:
+    -   name: Damian Visser
+        img:
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+Hier komt text over het project van het team. Maar zoals je ziet is het nogal kaal. Wat je nu al ziet is een voorbeeld van publiek miro board, waar mensen feedback kunnen achterlaten.
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
-
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_lbs9kmU=/?moveToViewport=-813,-457,1625,913" frameBorder="0" scrolling="no" allowFullScreen></iframe>

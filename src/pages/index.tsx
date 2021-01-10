@@ -46,9 +46,9 @@ const Home: NextPage<IProps> = ({allPostsData}) => {
         
         
         <Main>
-          <ul className="container no-underline flex flex-wrap  justify-start">
+          <ul className="container no-underline flex flex-wrap  justify-start text-white">
             {allPostsData.map(({ id, date, title }) => (
-              <li key={id} className="py-2 px-3 text-3xl hover:text-purple-600 transition duration-300 ease-in-out">
+              <li key={id} className="py-2 px-3 text-3xl font-medium  hover:text-purple-600 transition duration-300 ease-in-out">
                 <Link href={`/posts/${id}`}>
                   <a>{title}</a>
                 </Link>
