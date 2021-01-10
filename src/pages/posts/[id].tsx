@@ -22,7 +22,7 @@ export default function Post({
       title: string
       date: string
       meta: string
-      members: array
+      members: any
       contentHtml: string
     }
   }) {
