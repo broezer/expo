@@ -29,6 +29,7 @@ export default function Post({
         </Head>
         <Main>
           <h1>{postData.title}</h1>
+          <h2>{postData.meta}</h2>
           <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
         </Main>
       </Container>
