@@ -2,7 +2,6 @@ import React from 'react';
 import { createGlobalStyle, ThemeProvider } from 'styled-components';
 
 import Video from '@/components/Video';
-import 'tailwindcss/tailwind.css';
 
 
 const GlobalStyle = createGlobalStyle`
