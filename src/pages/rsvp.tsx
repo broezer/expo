@@ -22,8 +22,12 @@ const RSVP: NextPage = () => {
         
         <Main>
           <section className="container no-underline flex flex-wrap  justify-start text-white">
-            <h1 className="font-black uppercase text-2xl">RSVP for the Expo on thursday 21th of January</h1>
-            <p>
+            <h1 className="font-black  text-4xl w-full">Expo: Designful Innovation <span className="text-purple-600">X</span> Interface &amp; User Experience Design</h1>
+            <h2 className="font-black uppercase text-xl w-full">RSVP for the Expo on thursday 21th of January</h2><br/>
+            <h3 className="w-full font-semibold">11:00 - 13:00 | Livestream #1</h3>
+            <h3 className="w-full font-semibold">13:00 - 15:00 | Look around and chill</h3>
+            <h3 className="w-full font-semibold">15:00 - 18:00 | Livestream #2</h3>
+            <p className="my-4">
                 Want to join our Expo? And see all the wonderful work the students made. 
                 RSVP via the form below. That way we can add you to our MS Teams <em>Expo Team</em>.
                 So you will be able to have a chat with the designers of the future.
