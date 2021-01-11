@@ -46,7 +46,6 @@ const Home: NextPage<IProps> = ({allPostsData, allDIPostsData}) => {
         <Head>
           <title>EXPO CMD MINOR: IUXD &amp; DI</title>
           <link href="/favicon.ico" rel="icon" />
-          <script id="mcjs" dangerouslySetInnerHTML={{ __html:`!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/1fc8953b5692c4133f20c4bba/81a10d70870e6c19f12e0e490.js");` }} />
 
         </Head>
         
