@@ -36,7 +36,7 @@ export default async (req, res) => {
       // 7. Swallow any errors from Mailchimp and return a better error message.
       if (response.status >= 400) {
         return res.status(400).json({
-          error: `There was an error subscribing to the newsletter. Shoot me an email at [me@leerob.io] and I'll add you to the list.`
+          error: `There was an error subscribing to the newsletter. Shoot me an email at [b.r.moerdjiman@hr.nl] and I'll add you to the list.`
         });
       }
   
