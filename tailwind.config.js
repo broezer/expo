@@ -5,9 +5,8 @@ module.exports = {
     extend: {},
   },
   variants: {
-    
     extend: {
-      fill: ['hover', 'focus'],
+      fill: ['hover', 'focus']
     },
   },
   plugins: [],

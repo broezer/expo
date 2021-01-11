@@ -5,14 +5,11 @@ import Link from 'next/link';
 import React from 'react';
 import 'tailwindcss/dist/tailwind.css';
 
-import Card from '@/components/Card';
-import Code from '@/components/Code';
+
 import Container from '@/components/Container';
-import Description from '@/components/Description';
-import Footer from '@/components/Footer';
 import Grid from '@/components/Grid';
 import Main from '@/components/Main';
-import Title from '@/components/Title';
+
 
 import { getSortedPostsData } from '../../lib/posts';
 import { getSortedDIPostsData } from '../../lib/di-posts';
