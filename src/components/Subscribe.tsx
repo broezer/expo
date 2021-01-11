@@ -14,8 +14,7 @@ const Subscribe: FC = () => {
     // 3. Send a request to our API with the user's email address.
     const res = await fetch('/api/subscribe', {
       body: JSON.stringify({
-        email: inputEl.current.value,
-        first_name: inputElFirst.current.value,
+        email: inputEl.current.value
       }),
       headers: {
         'Content-Type': 'application/json'
@@ -48,15 +47,6 @@ const Subscribe: FC = () => {
         ref={inputEl}
         type="email"
       /><br/>
-      <label className="text-xs uppercase" htmlFor="email-input">{'Name'}</label><br/>
-      <input 
-        className="p-1 rounded text-black focus:text-purple-600"
-        id="name-input"
-        name="name"
-        placeholder="your name"
-        ref={inputElFirst}
-        type="name"
-      />
       <div>
         {message
           ? message
