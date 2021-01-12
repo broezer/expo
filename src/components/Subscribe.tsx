@@ -4,7 +4,6 @@ import 'tailwindcss/dist/tailwind.css';
 const Subscribe: FC = () => {
   // 1. Create a reference to the input so we can fetch/clear it's value.
   const inputEl = useRef(null);
-  const classEL = useRef(null);
   // 2. Hold a message in state to handle the response from our API.
   const [message, setMessage] = useState('');
 
@@ -33,7 +32,6 @@ const Subscribe: FC = () => {
 
     // 5. Clear the input value and show a success message.
     inputEl.current.value = '';
-    classEL.current.value = 'succes';
     setMessage('Success! 🎉 You are attending. Check you inbox (or spam) for confirmation. Sometimes this will take a couple of minutes.');
   };
 
@@ -48,10 +46,10 @@ const Subscribe: FC = () => {
         ref={inputEl}
         type="email"
       /><br/>
-      <div className="{classEL}">
+      <div className="py-4 text-xl  text-white font-bold">
         {message
           ? message
-          : `I'll only send an invite for the expo and add you to our MS Teams for the event. No spam.`}
+          : `We'll only send an invite for the expo and add you to our MS Teams for the event. No spam.`}
       </div>
       <button className="rounded bg-purple-600 px-6 py-2 hover:bg-purple-900 transition duration-300 ease-in-out"type="submit">{'✨ RSVP! 💌'}</button>
     </form>
