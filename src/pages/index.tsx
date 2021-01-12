@@ -3,6 +3,7 @@ import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import React from 'react';
+import { TwitchStream } from 'react-twitch-stream';
 import 'tailwindcss/dist/tailwind.css';
 
 
@@ -51,6 +52,7 @@ const Home: NextPage<IProps> = ({allPostsData, allDIPostsData}) => {
         
         
         <Main>
+          <TwitchStream channelName='010bruce' allowFullScreen autoPlay muted/>
           <h2 className="text-purple-600 uppercase text-sm font-black">Interface &amp; User Experience Design</h2>
           <ul className="container no-underline flex flex-wrap  justify-start text-white">
             {allPostsData.map(({ id, date, title }) => (
