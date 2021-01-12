@@ -70,7 +70,7 @@ const Home: NextPage<IProps> = ({allPostsData, allDIPostsData}) => {
   
         </div>
 
-        --!
+        --!>
 
         `
          
