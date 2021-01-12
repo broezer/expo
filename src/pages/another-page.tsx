@@ -26,6 +26,8 @@ const AnotherPage: NextPage = () => {
             Welcome to <a href="https://nextjs.org">Next.js!</a>
           </Title>
 
+          
+
           <Description>
             Get started by editing <Code>pages/index.js</Code>
           </Description>
