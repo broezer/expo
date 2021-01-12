@@ -52,7 +52,7 @@ const Home: NextPage<IProps> = ({allPostsData, allDIPostsData}) => {
         
         
         <Main>
-          <TwitchStream channelName='010bruce' allowFullScreen autoPlay muted/>
+          <TwitchStream channelName='010bruce&parent=expo-di.iuxd.nl' allowFullScreen autoPlay muted/>
           <h2 className="text-purple-600 uppercase text-sm font-black">Interface &amp; User Experience Design</h2>
           <ul className="container no-underline flex flex-wrap  justify-start text-white">
             {allPostsData.map(({ id, date, title }) => (
