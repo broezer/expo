@@ -21,6 +21,10 @@ const GlobalStyle = createGlobalStyle`
     text-decoration: none;
   }
 
+  iframe{
+    width:100%;
+  }
+
   * {
     box-sizing: border-box;
   }
