@@ -36,7 +36,7 @@
 }
 
 .title a {
-  color: #FF00FF;
+  color: #f0f;
   text-decoration: none;
 }
 
@@ -67,8 +67,7 @@
   border-radius: 5px;
   padding: 0.75rem;
   font-size: 1.1rem;
-  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
-    Bitstream Vera Sans Mono, Courier New, monospace;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
 }
 
 .grid {
@@ -90,14 +89,13 @@
   border: 1px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  
 }
- 
+
 .card:hover,
 .card:focus,
 .card:active {
-  color: #FF00FF;
-  border-color: #FF00FF;
+  color: #f0f;
+  border-color: #f0f;
 }
 
 .card h3 {
