@@ -5,14 +5,11 @@ import React from 'react';
 import { GetStaticProps, GetStaticPaths } from 'next';
 import 'tailwindcss/dist/tailwind.css';
 
-import Card from '@/components/Card';
-import Code from '@/components/Code';
+
 import Container from '@/components/Container';
-import Description from '@/components/Description';
-import Footer from '@/components/Footer';
-import Grid from '@/components/Grid';
 import Main from '@/components/Main';
-import Title from '@/components/Title';
+import Miro from '@/components/Miro';
+import ProfilePicture from '@/components/ProfilePicture';
 
 
 export default function Post({
@@ -24,6 +21,7 @@ export default function Post({
       meta: string
       members: any
       contentHtml: string
+      miro: string
     }
   }) {
     return (
@@ -49,6 +47,9 @@ export default function Post({
             <h2>{postData.meta}</h2>
           
             <section className="container max-w-full" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+
+            <h4 className="text-xl font-black uppercase text-purple-600 my-6">Leave me some feedback, thanks :)</h4>   
+            <Miro src={ postData.miro }></Miro>
           </article>
           
         </Main>
