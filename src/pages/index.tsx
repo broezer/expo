@@ -52,7 +52,7 @@ const Home: NextPage<IProps> = ({allPostsData, allDIPostsData}) => {
         
         <Main>
 
-        <section className="container max-100" dangerouslySetInnerHTML={{ __html: 
+        <section className="container max-w-full" dangerouslySetInnerHTML={{ __html: 
 
         `
         <!--

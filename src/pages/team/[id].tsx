@@ -1,7 +1,7 @@
 import { getAllPostIds, getPostData } from '../../../lib/posts';
 import Head from 'next/head';
 import Link from 'next/link';
-import React from 'react';
+import React, {Fragment} from 'react';
 import { GetStaticProps, GetStaticPaths } from 'next';
 import 'tailwindcss/dist/tailwind.css';
 
@@ -9,6 +9,8 @@ import 'tailwindcss/dist/tailwind.css';
 import Container from '@/components/Container';
 import Main from '@/components/Main';
 import Miro from '@/components/Miro';
+import ProfilePicture from '@/components/ProfilePicture';
+
 import styles from '../../styles/Post.module.css';
 
 
@@ -38,17 +40,27 @@ export default function Post({
               </svg>
             </a>
           </Link>
-          <article className="container max-100 bg-white bg-opacity-95 text-black-85 p-4 m-4 rounded-xl">
+          <article className="container max-w-full bg-white bg-opacity-95 text-black-85 p-4 m-4 rounded-xl">
             <header>
 
 
             </header>
-            <h1 className="text-4xl font-black uppercase">{postData.title}</h1>
-            <h2>{postData.meta}</h2>
-            <section>
-              <h2 className="text-xs uppercase">Teamleden</h2>
+            <h1 className="text-4xl font-black uppercase text-center my-10">{postData.title}</h1>
+            <section className="flex flex-wrap justify-center">
+              
               {postData.members.map(({ name, img}) => (
-                <h3>{name}</h3>
+                <Fragment>
+                  <div className="w-1/6 flex flex-col flex-wrap text-center">
+                    <figure className="rounded-full h-32 w-32  m-auto overflow-hidden">
+                      <ProfilePicture src={ img }></ProfilePicture>
+                    </figure>
+                    <h3 className="text-center w-full">{name}</h3>
+                  </div>
+                  
+                  
+                </Fragment>
+                
+                
               ))}
             </section>
 

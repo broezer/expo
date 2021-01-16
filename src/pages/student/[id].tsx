@@ -40,7 +40,7 @@ export default function Post({
               </svg>
             </a>
           </Link>
-          <article className="container max-100 bg-white bg-opacity-95 text-black-85 p-4 m-4 rounded-xl">
+          <article className="container max-w-full bg-white bg-opacity-95 text-black-85 p-4 m-4 rounded-xl">
             <header>
 
 
@@ -48,7 +48,7 @@ export default function Post({
             <h1 className="text-4xl font-black uppercase">{postData.title}</h1>
             <h2>{postData.meta}</h2>
           
-            <section className="container max-100" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+            <section className="container max-w-full" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
           </article>
           
         </Main>

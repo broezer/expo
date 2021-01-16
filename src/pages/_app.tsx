@@ -9,20 +9,19 @@ const GlobalStyle = createGlobalStyle`
   body {
     padding: 0;
     margin: 0;
-    
   }
 
-  body{
-    background:black;
+  body {
+    background: black;
   }
-  
+
   a {
     color: inherit;
     text-decoration: none;
   }
 
-  iframe{
-    width:100%;
+  iframe {
+    width: 100%;
   }
 
   * {
