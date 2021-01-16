@@ -3,15 +3,15 @@ title: 'Digital Progress'
 date: '2020-01-07'
 members:
     -   name: Fabio de Bruijn
-        img:
+        img: DSC_0798
     -   name: Mark Ernst
-        img:
+        img: DSC_0810
     -   name: Verena van den Hoven
-        img:
+        img: DSC_0848
     -   name: Sanne Eikelboom
-        img: 
+        img: DSC_0843
     -   name: Evelien van Driel Petri
-        img: 
+        img: DSC_0837
 miro: 'o9J_lZfVDuI'
 ---
 

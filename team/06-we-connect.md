@@ -3,15 +3,15 @@ title: 'WeConnect'
 date: '2020-01-08'
 members:
     -   name: Zoya Struis
-        img:
+        img: DSC_1046
     -   name: Benny Peterson
-        img:
+        img: DSC_0987
     -   name: Savannah van Harreveld
-        img:
+        img: DSC_0993
     -   name: Sunnie van de Werken
-        img: 
+        img: DSC_1062
     -   name: Marleen Boots
-        img: 
+        img: DSC_1056
 miro: 'o9J_lZfVDjs'
 ---
 

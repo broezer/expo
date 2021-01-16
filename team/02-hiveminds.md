@@ -3,15 +3,15 @@ title: 'Hiveminds'
 date: '2020-01-12'
 members:
     -   name: Chanouk Wagner
-        img:
+        img: DSC_1177
     -   name: Cherie Cederboom
-        img:
+        img: DSC_1187
     -   name: Ylva Wolter
-        img:
+        img: DSC_1169
     -   name: Thymo Rijneveld
-        img: 
+        img: DSC_1156
     -   name: Justin de Ruiter
-        img: 
+        img: DSC_1137
 miro: 'o9J_lZfXu5w'
 ---
 

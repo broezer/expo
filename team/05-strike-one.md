@@ -3,13 +3,13 @@ title: 'Strike One'
 date: '2020-01-09'
 members:
     -   name: Renata Fedchenko
-        img:
+        img: DSC_1211
     -   name: Pietertje Westerink
-        img:
+        img: DSC_1202
     -   name: Didi Zhou
-        img:
+        img: DSC_1215
     -   name: Indra Han
-        img: 
+        img: DSC_1194
     -   name: Ilham el Bouazzaoui
         img: 
 miro: 'o9J_lZfVDns' 

@@ -3,13 +3,13 @@ title: 'Human Inspired'
 date: '2020-01-13'
 members:
     -   name: Noa van Groen
-        img:
+        img: DSC_1030
     -   name: Eva Hellenthal
-        img:
+        img: DSC_1039
     -   name: Lotte Arnoldussen
-        img:
+        img: DSC_1006
     -   name: Josephin Cheang
-        img: 
+        img: DSC_1013
 miro: 'o9J_lZfXu4g'
 ---
 

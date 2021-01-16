@@ -3,13 +3,13 @@ title: 'Wonderteam'
 date: '2020-01-01'
 members:
     -   name: Anouk van Pelt
-        img:
+        img: DSC_0973
     -   name: Jerry-Lee Bosmans
-        img:
+        img: DSC_1081
     -   name: Laurens Vastenhout
-        img:
+        img: DSC_1072
     -   name: Damian Visser
-        img:
+        img: DSC_0935
 miro: 'o9J_lZfLFcg'
 ---
 

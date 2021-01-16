@@ -3,15 +3,15 @@ title: 'Silverpoint'
 date: '2020-01-03'
 members:
     -   name: Elwin de Witte
-        img:
+        img: DSC_0806
     -   name: Lisa Luijendijk
         img:
     -   name: Gabriella Viola
-        img:
+        img: DSC_0951
     -   name: Ashana Ainul
-        img:
+        img: DSC_0965
     -   name: Wessel van Berkel
-        img:
+        img: DSC_0793
 miro: 'o9J_lZfLFW4'
 ---
 

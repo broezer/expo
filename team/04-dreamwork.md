@@ -5,9 +5,9 @@ members:
     -   name: Jasha Hu
         img:
     -   name: Jered Sloof
-        img:
+        img: DSC_0921
     -   name: Sergen Peker
-        img:
+        img: DSC_0929
 miro: 'o9J_lZfVDkk'
 ---
 

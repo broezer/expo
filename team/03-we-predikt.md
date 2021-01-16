@@ -3,15 +3,15 @@ title: 'we predikt'
 date: '2020-01-11'
 members:
     -   name: Lotte Huiskamp
-        img:
+        img: DSC_1341
     -   name: Rowie Driessen
-        img:
+        img: DSC_1323
     -   name: Sico Kroes
-        img:
+        img: DSC_1455
     -   name: Demi van Oirschot
-        img: 
+        img: DSC_1344
     -   name: Jordan Valentijn
-        img: 
+        img: DSC_1291
 miro: 'o9J_lZfVCZc'
 ---
 

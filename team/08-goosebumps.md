@@ -3,15 +3,15 @@ title: 'Goosebumps'
 date: '2020-01-06'
 members:
     -   name: Jordi Suijkerbuijk
-        img:
+        img: DSC_0899
     -   name: Tristan Kirwan
-        img:
+        img: DSC_0917
     -   name: Feline Hu
-        img:
+        img: DSC_0893
     -   name: Fabian Strian
-        img: 
+        img: DSC_0907
     -   name: Ricardio de Penning
-        img: 
+        img: DSC_0946
 miro: 'o9J_lZfVDr4'
 ---
 

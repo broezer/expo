@@ -3,13 +3,13 @@ title: 'Conflate'
 date: '2020-01-02'
 members:
     -   name: Kayleigh Van Der Graaf
-        img:
+        img: DSC_1300
     -   name: Lisa Hoogendoorn
-        img:
-    -   name: Wouter  Van Meegdenburg
-        img:
+        img: DSC_1281
+    -   name: Wouter Van Meegdenburg
+        img: DSC_1261
     -   name: Dominique Van Ijzendoorn
-        img:
+        img: DSC_1265
 miro: 'o9J_lZfLFSY'
 ---
 

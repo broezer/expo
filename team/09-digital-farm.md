@@ -3,13 +3,13 @@ title: 'Digital Farm'
 date: '2020-01-05'
 members:
     -   name: Matthijs Tisserand
-        img:
+        img: DSC_0827
     -   name: Esmay Onsoe
-        img:
+        img: DSC_0823
     -   name: Rosanne van Golen
-        img:
+        img: DSC_1446
     -   name: Julius Leerkamp
-        img: 
+        img: DSC_0819
 miro: 'o9J_lZfLFJ0'
 ---
 
