@@ -1,6 +1,7 @@
 ---
 title: 'Strike One'
 date: '2020-01-09'
+client: 'HikeOne'
 members:
     -   name: Renata Fedchenko
         img: DSC_1211
@@ -11,7 +12,7 @@ members:
     -   name: Indra Han
         img: DSC_1194
     -   name: Ilham el Bouazzaoui
-        img: 
+        img: ilham
 miro: 'o9J_lZfVDns' 
 ---
 

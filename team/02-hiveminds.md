@@ -1,6 +1,7 @@
 ---
 title: 'Hiveminds'
 date: '2020-01-12'
+client: 'Mirabeau'
 members:
     -   name: Chanouk Wagner
         img: DSC_1177

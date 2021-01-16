@@ -1,5 +1,6 @@
 ---
 title: 'Human Inspired'
+client: 'ABN AMRO/Tikkie'
 date: '2020-01-13'
 members:
     -   name: Noa van Groen

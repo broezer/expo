@@ -1,6 +1,7 @@
 ---
 title: 'Goosebumps'
 date: '2020-01-06'
+client: 'HikeOne'
 members:
     -   name: Jordi Suijkerbuijk
         img: DSC_0899

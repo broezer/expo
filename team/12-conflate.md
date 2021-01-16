@@ -1,6 +1,7 @@
 ---
 title: 'Conflate'
 date: '2020-01-02'
+client: 'Strakzat'
 members:
     -   name: Kayleigh Van Der Graaf
         img: DSC_1300

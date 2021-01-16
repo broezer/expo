@@ -1,6 +1,7 @@
 ---
 title: 'Digital Progress'
 date: '2020-01-07'
+client: 'YipYip/Logoclicks'
 members:
     -   name: Fabio de Bruijn
         img: DSC_0798

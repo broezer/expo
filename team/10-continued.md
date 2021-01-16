@@ -1,6 +1,7 @@
 ---
 title: 'Continued'
 date: '2020-01-04'
+client: '(A)Wake'
 members:
     -   name: Dion Franken
         img: DSC_1429

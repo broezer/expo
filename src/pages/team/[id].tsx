@@ -20,7 +20,7 @@ export default function Post({
     postData: {
       title: string
       date: string
-      meta: string
+      client: string
       members: any
       contentHtml: string
       miro: string
@@ -41,20 +41,27 @@ export default function Post({
             </a>
           </Link>
           <article className="container max-w-full bg-white bg-opacity-95 text-black-85 p-4 m-4 rounded-xl">
-            <header>
+            <header className="text-center">
 
-
+              <h1 className="text-5xl font-black uppercase text-green-400 mt-10 mb-0">{postData.title}</h1>
+              <h2 className="text-xs mb-10 text-gray-800">
+                <span className="lowercase font-light">Client: </span>
+                <span className="font-bold">{postData.client}</span>
+              </h2>
+                
+              
             </header>
-            <h1 className="text-4xl font-black uppercase text-center my-10">{postData.title}</h1>
+
+              
             <section className="flex flex-wrap justify-center">
               
               {postData.members.map(({ name, img}) => (
                 <Fragment>
-                  <div className="w-1/6 flex flex-col flex-wrap text-center">
-                    <figure className="rounded-full h-32 w-32  m-auto overflow-hidden">
+                  <div className="w-1/6 flex flex-col flex-wrap text-center ">
+                    <figure className="rounded-full h-32 w-32  m-auto overflow-hidden shadow-md">
                       <ProfilePicture src={ img }></ProfilePicture>
                     </figure>
-                    <h3 className="text-center w-full">{name}</h3>
+                    <h3 className="text-center font-semibold my-2 w-full  text-gray-800">{name}</h3>
                   </div>
                   
                   

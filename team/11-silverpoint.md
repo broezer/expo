@@ -1,6 +1,7 @@
 ---
 title: 'Silverpoint'
 date: '2020-01-03'
+client: 'KB | Nationale Bibliotheek'
 members:
     -   name: Elwin de Witte
         img: DSC_0806

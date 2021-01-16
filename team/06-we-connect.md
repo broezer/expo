@@ -1,6 +1,7 @@
 ---
 title: 'WeConnect'
 date: '2020-01-08'
+client: 'Info'
 members:
     -   name: Zoya Struis
         img: DSC_1046

@@ -1,6 +1,7 @@
 ---
 title: 'we predikt'
 date: '2020-01-11'
+client: 'Info'
 members:
     -   name: Lotte Huiskamp
         img: DSC_1341

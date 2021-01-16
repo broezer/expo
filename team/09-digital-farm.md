@@ -1,6 +1,7 @@
 ---
 title: 'Digital Farm'
 date: '2020-01-05'
+client: 'Mirabeau'
 members:
     -   name: Matthijs Tisserand
         img: DSC_0827

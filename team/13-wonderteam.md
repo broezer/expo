@@ -1,6 +1,7 @@
 ---
 title: 'Wonderteam'
 date: '2020-01-01'
+client: 'BrainTrainerPlus'
 members:
     -   name: Anouk van Pelt
         img: DSC_0973

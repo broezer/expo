@@ -45,7 +45,7 @@ export default function Post({
 
 
             </header>
-            <h1 className="text-4xl font-black uppercase">{postData.title}</h1>
+            <h1 className="text-5xl font-black uppercase">{postData.title}</h1>
             <h2>{postData.meta}</h2>
           
             <section className="container max-w-full" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
