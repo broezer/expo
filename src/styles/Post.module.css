@@ -1,0 +1,9 @@
+.postContent {
+    @apply container;
+    @apply max-w-full;
+}
+
+.postContent h1, .postContent h2, .postContent h3{
+    @apply text-lg uppercase font-black  text-purple-600;
+  
+}

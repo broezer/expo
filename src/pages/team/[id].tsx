@@ -9,6 +9,7 @@ import 'tailwindcss/dist/tailwind.css';
 import Container from '@/components/Container';
 import Main from '@/components/Main';
 import Miro from '@/components/Miro';
+import styles from '../../styles/Post.module.css';
 
 
 export default function Post({
@@ -51,7 +52,7 @@ export default function Post({
               ))}
             </section>
 
-            <section className="container max-100" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+            <section className={styles.postContent} dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
 
             <h4 className="text-xl font-black uppercase text-purple-600 my-6">Leave us some feedback, thanks :)</h4>   
             <Miro src={ postData.miro }></Miro>
