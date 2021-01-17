@@ -2,6 +2,7 @@
 title: 'Goosebumps'
 date: '2020-01-06'
 client: 'HikeOne'
+ontwerpvraag: 'Hoe kun je d.m.v. voice control laaggeletterden ondersteunen in het gebruik van de Marktplaats app om deze zo inclusief mogelijk te maken?'
 members:
     -   name: Jordi Suijkerbuijk
         img: DSC_0899
@@ -13,11 +14,9 @@ members:
         img: DSC_0907
     -   name: Ricardio de Penning
         img: DSC_0946
+casestudy: 'https://goosebumbs.ricardiodp.nl/'
 miro: 'o9J_lZfVDr4'
 ---
-
-Hier komt text over het project van het team. Maar zoals je ziet is het nogal kaal. Wat je nu al ziet is een voorbeeld van publiek miro board, waar mensen feedback kunnen achterlaten.
-
 
 
 

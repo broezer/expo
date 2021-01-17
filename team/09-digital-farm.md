@@ -2,6 +2,7 @@
 title: 'Digital Farm'
 date: '2020-01-05'
 client: 'Mirabeau'
+ontwerpvraag: 
 members:
     -   name: Matthijs Tisserand
         img: DSC_0827
@@ -11,8 +12,8 @@ members:
         img: DSC_1446
     -   name: Julius Leerkamp
         img: DSC_0819
+casestudy: 'http://matthijs-tisserand.nl/Team_Digital_Farm_Onepager/Onepager.html'
 miro: 'o9J_lZfLFJ0'
 ---
 
-Hier komt text over het project van het team. Maar zoals je ziet is het nogal kaal. Wat je nu al ziet is een voorbeeld van publiek miro board, waar mensen feedback kunnen achterlaten.
 

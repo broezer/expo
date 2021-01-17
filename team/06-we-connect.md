@@ -2,6 +2,7 @@
 title: 'WeConnect'
 date: '2020-01-08'
 client: 'Info'
+ontwerpvraag: 'Ontwerp het gedrag van een product dat gebruik maakt van kennis uit het netwerk om voorspellingen te doen over de toekomstige wensen van de gebruiker.'
 members:
     -   name: Zoya Struis
         img: DSC_1046
@@ -13,9 +14,9 @@ members:
         img: DSC_1062
     -   name: Marleen Boots
         img: DSC_1056
+casestudy: 'https://bobbie.webflow.io/'
 miro: 'o9J_lZfVDjs'
 ---
 
-Hier komt text over het project van het team. Maar zoals je ziet is het nogal kaal. Wat je nu al ziet is een voorbeeld van publiek miro board, waar mensen feedback kunnen achterlaten.
 
 

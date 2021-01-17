@@ -2,6 +2,7 @@
 title: 'Wonderteam'
 date: '2020-01-01'
 client: 'BrainTrainerPlus'
+ontwerpvraag: 'Hoe kunnen we jongeren stimuleren om op een innovatieve manier meer literatuur te consumeren?'
 members:
     -   name: Anouk van Pelt
         img: DSC_0973
@@ -11,10 +12,10 @@ members:
         img: DSC_1072
     -   name: Damian Visser
         img: DSC_0935
+casestudy: 
 miro: 'o9J_lZfLFcg'
 ---
 
 
-Hier komt text over het project van het team. Maar zoals je ziet is het nogal kaal. Wat je nu al ziet is een voorbeeld van publiek miro board, waar mensen feedback kunnen achterlaten.
-
+ 
 

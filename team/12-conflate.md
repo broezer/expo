@@ -2,6 +2,7 @@
 title: 'Conflate'
 date: '2020-01-02'
 client: 'Strakzat'
+ontwerpvraag: 
 members:
     -   name: Kayleigh Van Der Graaf
         img: DSC_1300
@@ -11,9 +12,8 @@ members:
         img: DSC_1261
     -   name: Dominique Van Ijzendoorn
         img: DSC_1265
+casestudy: 
 miro: 'o9J_lZfLFSY'
 ---
-
-Hier komt text over het project van het team. Maar zoals je ziet is het nogal kaal. Wat je nu al ziet is een voorbeeld van publiek miro board, waar mensen feedback kunnen achterlaten.
 
 

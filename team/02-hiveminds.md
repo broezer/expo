@@ -2,6 +2,7 @@
 title: 'Hiveminds'
 date: '2020-01-12'
 client: 'Mirabeau'
+ontwerpvraag: 'Hoe kan er een gepersonaliseerde phygital experience worden gecreëerd, die bijdraagt aan het verbeteren van de premium service in de fysieke Bijenkorf winkels?'
 members:
     -   name: Chanouk Wagner
         img: DSC_1177
@@ -13,10 +14,8 @@ members:
         img: DSC_1156
     -   name: Justin de Ruiter
         img: DSC_1137
+casestudy: 'https://hiveminds.netlify.app/'
 miro: 'o9J_lZfXu5w'
 ---
-
-Hier komt text over het project van het team. Maar zoals je ziet is het nogal kaal. Wat je nu al ziet is een voorbeeld van publiek miro board, waar mensen feedback kunnen achterlaten.
-
 
 

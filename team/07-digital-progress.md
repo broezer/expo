@@ -2,6 +2,7 @@
 title: 'Digital Progress'
 date: '2020-01-07'
 client: 'YipYip/Logoclicks'
+ontwerpvraag: 'Hoe kunnen we ervoor zorgen dat afasiepatiënten, met ieder hun eigen behoeftes, gemotiveerd aan de slag kunnen om zelfstandig en consistent te blijven oefenen nadat de behandeling met de logopedist is afgerond?'
 members:
     -   name: Fabio de Bruijn
         img: DSC_0798
@@ -13,10 +14,10 @@ members:
         img: DSC_0843
     -   name: Evelien van Driel Petri
         img: DSC_0837
+casestudy: 'https://ejvdp1996.wixsite.com/afasietraining'
 miro: 'o9J_lZfVDuI'
 ---
 
-Hier komt text over het project van het team. Maar zoals je ziet is het nogal kaal. Wat je nu al ziet is een voorbeeld van publiek miro board, waar mensen feedback kunnen achterlaten.
 
 
 

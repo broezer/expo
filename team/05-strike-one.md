@@ -2,6 +2,7 @@
 title: 'Strike One'
 date: '2020-01-09'
 client: 'HikeOne'
+ontwerpvraag: 'Creëer een feature/oplossing die waarde bijdraagt aan Marktplaats, dit kan een stap vooruit zijn vanuit gebruiker, design of business perspectief.'
 members:
     -   name: Renata Fedchenko
         img: DSC_1211
@@ -13,10 +14,10 @@ members:
         img: DSC_1194
     -   name: Ilham el Bouazzaoui
         img: ilham
+casestudy: 'https://strike-one.webflow.io/'
 miro: 'o9J_lZfVDns' 
 ---
 
-Hier komt text over het project van het team. Maar zoals je ziet is het nogal kaal. Wat je nu al ziet is een voorbeeld van publiek miro board, waar mensen feedback kunnen achterlaten.
 
 
 
