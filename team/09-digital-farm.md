@@ -2,7 +2,7 @@
 title: 'Digital Farm'
 date: '2020-01-05'
 client: 'Mirabeau'
-ontwerpvraag: 
+ontwerpvraag: 'Hoe kunnen we de band tussen FrieslandCampina en de boeren onderling versterken door middel van een digitale oplossing?'
 members:
     -   name: Matthijs Tisserand
         img: DSC_0827
