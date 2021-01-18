@@ -83,7 +83,7 @@ export default function Post({
             <section className="flex flex-wrap justify-center my-10 w-4/5 m-auto">
               <h2 className="uppercase text-xs text-purple-600 font-bold w-full mb-4 text-center">Connect with us</h2>
               <a href={postData.casestudy} className="w-1/3 cursor-pointer bg-white text-center mx-5 p-4 text-green-400 rounded-md border-solid border-2 border-green-400 hover:text-white hover:bg-green-400 transition ease-in-out duration-300">Bezoek onze case-study</a>
-              <a href={postData.casestudy} className="w-1/3 cursor-pointer bg-white text-center mx-5 p-4 text-purple-600 rounded-md border-solid border-2 border-purple-600 hover:text-white hover:bg-purple-600 transition ease-in-out duration-300">Meet op MS Teams</a>
+              <a className="w-1/3 cursor-pointer bg-white text-center mx-5 p-4 text-purple-600 rounded-md border-solid border-2 border-purple-600 hover:text-white hover:bg-purple-600 transition ease-in-out duration-300">Meet op MS Teams</a>
             </section>
 
             <h4 className="text-xl text-center w-full font-black uppercase text-green-400 my-6">Leave us some feedback, thanks :)</h4>   

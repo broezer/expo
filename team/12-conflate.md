@@ -2,7 +2,7 @@
 title: 'Conflate'
 date: '2020-01-02'
 client: 'Strakzat'
-ontwerpvraag: 
+ontwerpvraag: 'Bedenk, ontwerp en ontwikkel een werkend prototype om restauranteigenaren te ondersteunen om hun restaurant te digitaliseren.'
 members:
     -   name: Kayleigh Van Der Graaf
         img: DSC_1300
@@ -12,7 +12,7 @@ members:
         img: DSC_1261
     -   name: Dominique Van Ijzendoorn
         img: DSC_1265
-casestudy: 
+casestudy: 'http://www.kayvdg.nl/sitedish/'
 miro: 'o9J_lZfLFSY'
 ---
 
