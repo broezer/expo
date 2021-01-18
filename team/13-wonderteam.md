@@ -2,7 +2,7 @@
 title: 'Wonderteam'
 date: '2020-01-01'
 client: 'BrainTrainerPlus'
-ontwerpvraag: 'Hoe kunnen we jongeren stimuleren om op een innovatieve manier meer literatuur te consumeren?'
+ontwerpvraag: 'Hoe kan ervoor gezorgd worden dat de bezoeksfrequentie en- duur bij dementerende ouderen vergroot en verhoogt wordt?'
 members:
     -   name: Anouk van Pelt
         img: DSC_0973
