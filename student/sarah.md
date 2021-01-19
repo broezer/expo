@@ -1,5 +1,7 @@
 ---
 title: 'Sarah'
+firstname: 'Sarah'
+lastname: 'Kramer'
 date: '2020-01-13'
 miro: 'o9J_lYu1me0'
 

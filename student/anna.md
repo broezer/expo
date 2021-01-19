@@ -1,5 +1,7 @@
 ---
 title: 'Anna'
+firstname: 'Anna'
+lastname: 'Lecaros Gonzalez'
 date: '2020-01-13'
 miro: 'o9J_lYvh-zo'
 

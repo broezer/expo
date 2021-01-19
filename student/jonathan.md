@@ -1,5 +1,7 @@
 ---
 title: 'Jonathan'
+firstname: 'Jonathan'
+lastname: 'van den Broek'
 date: '2020-01-13'
 miro: 'o9J_lYv6E64'
 

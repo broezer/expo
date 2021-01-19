@@ -1,6 +1,9 @@
 ---
 title: 'Amy'
+firstname: 'Amy'
+lastname: 'Duursma'
 date: '2020-01-13'
+profile-img:
 miro: 'o9J_lYvh'
 
 ---

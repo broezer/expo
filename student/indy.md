@@ -1,5 +1,7 @@
 ---
 title: 'Indy'
+firstname: 'Indy'
+lastname: 'van Overdijk'
 date: '2020-01-13'
 miro: 'o9J_lYvyMXc'
 

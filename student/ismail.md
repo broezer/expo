@@ -1,5 +1,7 @@
 ---
 title: 'Ismail'
+firstname: 'Ismail'
+lastname: 'Hussein'
 date: '2020-01-13'
 miro: 'o9J_lYvyMRw'
 

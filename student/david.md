@@ -1,5 +1,7 @@
 ---
 title: 'David'
+firstname: 'David'
+lastname: 'van Hagen'
 date: '2020-01-13'
 miro: 'o9J_lYvyMGM'
 

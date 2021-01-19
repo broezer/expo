@@ -1,5 +1,7 @@
 ---
 title: 'Lianne'
+firstname: 'Lianne'
+lastname: 'van Gaalen'
 date: '2020-01-13'
 miro: 'o9J_lYv6EIQ'
 

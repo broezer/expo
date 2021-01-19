@@ -1,5 +1,7 @@
 ---
 title: 'Dinayda'
+firstname: 'Dinayda'
+lastname: 'Augusta'
 date: '2020-01-13'
 miro: 'o9J_lYvyMAw'
 

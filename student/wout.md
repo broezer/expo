@@ -1,5 +1,7 @@
 ---
 title: 'Wout'
+firstname: 'Wout'
+lastname: 'Verstegen'
 date: '2020-01-13'
 miro: 'o9J_lYu1nug'
 

@@ -1,5 +1,7 @@
 ---
 title: 'Imme'
+firstname: 'Imme'
+lastname: 'de Geus'
 date: '2020-01-13'
 miro: 'o9J_lYvyMUA'
 

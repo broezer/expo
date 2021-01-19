@@ -1,5 +1,7 @@
 ---
 title: 'Maurits'
+firstname: 'Maurits'
+lastname: 'Sterrenburg'
 date: '2020-01-13'
 miro: 'o9J_lYu1mD4'
 
