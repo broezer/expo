@@ -7,7 +7,20 @@ profile_img: 'Lorenzo_foto'
 miro: 'o9J_lYv_8rY'
 hmw: 'give people on a budget who want to be sustainable a more affordable option?'
 theme: 'Circular Economy'
+visual: 'Lorenzo_Refos_Booklet_visual'
 
 ---
 
-Hier komt text over het project van het team. Maar zoals je ziet is het nogal kaal. Wat je nu al ziet is een voorbeeld van publiek miro board, waar mensen feedback kunnen achterlaten.
+## UNSTAINED 
+
+Imagine being a student, browsing the internet, looking for some new clothes. Then you realize: “I can’t find anything sustainable in my price range”. So, what do you do? Do you go and spend some extra hard-earned money or do you close the site and open another site with clothes that have a more attractive price tag? But these clothes are probably not so sustainable. 
+
+This is a problem for a lot of people these days, because they care about the environment and know the impact that clothes can have on the world, but it is too hard to change, because of their income. It leaves them with mixed feelings when making one of the choices 
+
+UNSTAINED will take that burden of your shoulders by making it possible for you to wear clothes that are affordable and sustainable at the same time. 
+
+How do we do it? Together! 
+
+UNSTAINED makes sure that you can order your clothes online, which are then available for a limited time, which you can plan yourself. You can pick them up in one of our stores or deliver them at home. Make sure to bring them back before your given time expires, so that we can wash your clothes and make them look good again for others to wear! 
+
+ 

@@ -7,9 +7,18 @@ profile_img: 'Dylan_'
 miro: 'o9J_lYvyMNM'
 hmw: 'get second opinions more easily available for General Practitioners to get more valid information and perspectives while constructing their first diagnosis?'
 theme: 'Health & Wellbeing'
+visual: 'DylanRademaker_Visual'
 
 ---
 
-Hier komt text over het project van het team. Maar zoals je ziet is het nogal kaal. Wat je nu al ziet is een voorbeeld van publiek miro board, waar mensen feedback kunnen achterlaten.
+## Holo! 
 
+My innovation Holo! is an Augmented Reality based holographic overlay powered by the knowledge of A.I. it is designed to help general practitioners make an accurate first diagnosis of their patients.  
 
+While the general practitioner is diagnosing a patient they can activate Holo, the overlay will scan and show the patients current status, list symptoms and list all possible diagnosis. The general practitioner can also interact with the AR overlay and ask for second opinions from other specialists via this medium when they are not sure about their of the AI’s assessment of the situation.  
+
+With Holo! we want to create a Network of specialists and doctors who can help each other out with their experience and knowledge on different subjects.  
+
+The General practitioner is now better informed than ever before! Information comes from multiple sources and give them an insightful perspective of the situation. There is no need to be worried anymore about general practitioners diagnosing you wrongly and sending you on the wrong track. Your treatment or recovery will be more streamlined, better suiting and faster thanks to this well informed first diagnosis.  
+
+### Holo! - Your personal dosis of a good diagnosis. 

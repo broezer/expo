@@ -10,6 +10,9 @@ import Container from '@/components/Container';
 import Main from '@/components/Main';
 import Miro from '@/components/Miro';
 import ProfilePictureDI from '@/components/ProfilePictureDI';
+import Visual from '@/components/Visual';
+
+import styles from '../../styles/Post.module.css';
 
 
 export default function Post({
@@ -24,6 +27,7 @@ export default function Post({
       contentHtml: string
       miro: string
       hmw: string
+      visual: string
     }
   }) {
     return (
@@ -52,10 +56,20 @@ export default function Post({
                 <h2 className="font-light italic text-xl text-gray-800 text-center w-4/5">"<span className="text-purple-600">How might we </span> <span className="font-semibold">{postData.hmw}</span>"</h2>
             </section>
           
-            <section className="container max-w-full" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+            <section className={styles.postContent} dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+            
+            <section className="flex w-3/5 justify-center m-auto my-10">
+                <figure className="shadow-lg">
+                  <Visual src={ postData.visual }></Visual>
+                </figure>
+            </section>
+            
+            <section>
+             <h4 className="text-xl font-black uppercase text-purple-600 my-6">Leave me some feedback, thanks :)</h4>   
+              <Miro src={ postData.miro }></Miro>
 
-            <h4 className="text-xl font-black uppercase text-purple-600 my-6">Leave me some feedback, thanks :)</h4>   
-            <Miro src={ postData.miro }></Miro>
+            </section>
+            
           </article>
           
         </Main>

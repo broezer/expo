@@ -7,9 +7,15 @@ profile_img: 'ChantalS'
 miro: 'o9J_lYvyM5A'
 hwm: 'use technology to recreate a live experience at a location that’s not the event itself?'
 theme: 'Future Business'
+visual: 'ChantalSluer_BookletVisual-02'
 
 ---
 
-Hier komt text over het project van het team. Maar zoals je ziet is het nogal kaal. Wat je nu al ziet is een voorbeeld van publiek miro board, waar mensen feedback kunnen achterlaten.
+It took a pandemic for us to realise all the things we have access to during 'normal' times. For me it meant no more sports to watch as entertainment and now that it’s back, audiences still aren’t allowed to be at the event. So how could we bring the experience to us instead of the other way around? Not only in a safe way during a pandemic, but also for people that normally don’t have the means to attend an experience. 
 
+Formula 1 Sinex is a cinematic experience that uses technology to recreate the experience of being at a Formula 1 race weekend by targeting the senses. The halls will be using temperature control, directional sounds, wind simulation and sky projection to bring the outside of the circuits to the customers. 
+
+In the halls people can use smart glasses linked to their phones and a special Sinex app to create their own interface projection. This is because everyone has their own preferences for what type of statistics they want to have on screen, so customers are given the freedom to choose up to 5 visuals to be projected by their glasses. 
+
+Formula 1 has never been as accessible as it is with Sinex, no expensive trips, just download the app and buy a ticket. 
 
