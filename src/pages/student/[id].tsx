@@ -23,6 +23,7 @@ export default function Post({
       profile_img: string
       contentHtml: string
       miro: string
+      hmw: string
     }
   }) {
     return (
@@ -48,8 +49,7 @@ export default function Post({
             </header>
             
             <section className="flex flex-wrap justify-center my-10">
-                <h3 className="uppercase text-xs text-purple-600 font-bold w-full text-center ">How Might We</h3>
-                <h2 className="font-light italic text-xl text-gray-800 text-center w-4/5">""</h2>
+                <h2 className="font-light italic text-xl text-gray-800 text-center w-4/5">"<span className="text-purple-600">How might we </span> <span className="font-semibold">{postData.hmw}</span>"</h2>
             </section>
           
             <section className="container max-w-full" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
