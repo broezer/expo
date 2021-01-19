@@ -15,7 +15,7 @@ const ProfilePictureDI: FC<{ src: string }> = ({ src }) => {
   return (
     <img
       ref={imgRef}
-      className="object-cover object-center h-full"
+      className="object-cover object-center min-h-full"
     />
   );
 };

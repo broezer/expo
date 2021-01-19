@@ -7,7 +7,7 @@ profile_img: 'CarolaStap'
 miro: 'o9J_lYvyMww'
 hmw: 'assist vegans while doing grocery shopping so it can be faster and easier?'
 theme: 'Health & Well-being'
-carola: 'CarolaStap'
+visual: 'CarolaStap'
 ---
 
 ## Flow 

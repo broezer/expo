@@ -1,5 +1,7 @@
 ---
-title: 'Hannad Ahmed'
+title: 'Hannad'
+firstname: 'Hannad'
+lastname: 'Ahmed'
 date: '2020-01-13'
 profile_img: 'Hannad Color'
 miro: 'o9J_lYvyMKM'
