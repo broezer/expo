@@ -8,6 +8,8 @@ miro: 'o9J_lYvh-l0'
 hmw: 'create an atmosphere with more personal contact to share and express our feelings and emotions?'
 theme: 'Health & Well-being'
 visual: 'AnneLazaroms_Booklet visual'
+teams: 'https://teams.microsoft.com/l/meetup-join/19%3a91afa0d2fb6f45f3ba7c67028f05eaef%40thread.tacv2/1611096213647?context=%7b%22Tid%22%3a%22ca6fbace-7cba-4d53-8681-a06284f7ff46%22%2c%22Oid%22%3a%22100e5047-8c80-4681-bea6-926cb60256f0%22%7d'
+
 ---
 
 ## Social Light. 

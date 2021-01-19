@@ -6,8 +6,9 @@ date: '2020-01-13'
 profile_img: 'Richard'
 miro: 'o9J_lYu1mRo'
 hmw: 'make digital designers work more efficiently with the use of innovative technology? '
-theme: 'Resilient Living'
+theme: 'Future Business'
 visual: 'Richard vd Brink Workbot visual'
+teams: 'https://teams.microsoft.com/l/meetup-join/19%3ad3e242c6496c4c9cb420776cd7c4e079%40thread.tacv2/1611095959544?context=%7b%22Tid%22%3a%22ca6fbace-7cba-4d53-8681-a06284f7ff46%22%2c%22Oid%22%3a%22100e5047-8c80-4681-bea6-926cb60256f0%22%7d'
 
 ---
 

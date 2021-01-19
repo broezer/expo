@@ -29,6 +29,7 @@ export default function Post({
       hmw: string
       visual: string
       theme: string
+      teams: string
     }
   }) {
     return (
@@ -68,6 +69,11 @@ export default function Post({
                 <figure className="shadow-lg">
                   <Visual src={ postData.visual }></Visual>
                 </figure>
+            </section>
+
+            <section className="flex flex-wrap justify-center my-10 w-4/5 m-auto">
+              <h2 className="uppercase text-xs text-green-600 font-bold w-full mb-4 text-center">Connect with us</h2>
+              <a href={postData.teams} className="w-1/3 cursor-pointer bg-white text-center mx-5 p-4 text-purple-600 rounded-md border-solid border-2 border-purple-600 hover:text-white hover:bg-purple-600 transition ease-in-out duration-300">Meet on MS Teams</a>
             </section>
             
             <section>

@@ -8,6 +8,7 @@ miro: 'o9J_lYvyMDc'
 hmw: 'easily let go of our thoughts during the day and before going to sleep in response to our tension level?'
 theme: 'Health & Well-being'
 visual: 'Dong Ye_Kloppenburg_visual'
+teams: 'https://teams.microsoft.com/l/meetup-join/19%3afc2c2fa6ef464084b689bfd64afefa7f%40thread.tacv2/1611096024689?context=%7b%22Tid%22%3a%22ca6fbace-7cba-4d53-8681-a06284f7ff46%22%2c%22Oid%22%3a%22100e5047-8c80-4681-bea6-926cb60256f0%22%7d'
 
 ---
 

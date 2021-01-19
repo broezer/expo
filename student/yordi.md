@@ -8,6 +8,7 @@ miro: 'o9J_lYu1npU'
 hmw: 'create a more interactive and memorable way for long-distance loved ones to create closeness and memories?'
 theme: 'Smart & Resilient Living'
 visual: 'YordivanLeeuwen_Visual'
+teams: 'https://teams.microsoft.com/l/meetup-join/19%3afc2c2fa6ef464084b689bfd64afefa7f%40thread.tacv2/1611096024689?context=%7b%22Tid%22%3a%22ca6fbace-7cba-4d53-8681-a06284f7ff46%22%2c%22Oid%22%3a%22100e5047-8c80-4681-bea6-926cb60256f0%22%7d'
 
 ---
 

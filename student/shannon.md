@@ -9,6 +9,7 @@ miro: 'o9J_lYu1mbY'
 hmw: 'create more spaces for the dog''s natural behavior and communication?'
 theme: 'Health & Well-being'
 visual: 'shannon pronk booklet'
+teams: 'https://teams.microsoft.com/l/meetup-join/19%3ab582db8f05a744b48295076eafdd06ac%40thread.tacv2/1611096257563?context=%7b%22Tid%22%3a%22ca6fbace-7cba-4d53-8681-a06284f7ff46%22%2c%22Oid%22%3a%22100e5047-8c80-4681-bea6-926cb60256f0%22%7d'
 
 ---
 
