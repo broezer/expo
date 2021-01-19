@@ -3,7 +3,7 @@ title: 'Richard'
 firstname: 'Richard'
 lastname: 'van den Brink'
 date: '2020-01-13'
-profile-img: 'Richard'
+profile_img: 'Richard'
 miro: 'o9J_lYu1mRo'
 
 ---

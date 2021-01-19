@@ -3,7 +3,7 @@ title: 'Amy'
 firstname: 'Amy'
 lastname: 'Duursma'
 date: '2020-01-13'
-profile-img: 'Amy_kleur'
+picture_img: 'Amy_kleur'
 miro: 'o9J_lYvh'
 
 ---

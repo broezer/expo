@@ -3,7 +3,7 @@ title: 'Danielle'
 firstname: 'Danielle'
 lastname: 'Broekhuizen'
 date: '2020-01-13'
-profile-img: 'DaniëlleBroekhuizen'
+profile_img: 'DaniëlleBroekhuizen'
 miro: 'o9J_lYvyMEY'
 
 ---

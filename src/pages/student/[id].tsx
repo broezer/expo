@@ -9,7 +9,7 @@ import 'tailwindcss/dist/tailwind.css';
 import Container from '@/components/Container';
 import Main from '@/components/Main';
 import Miro from '@/components/Miro';
-import ProfilePicture from '@/components/ProfilePicture';
+import ProfilePictureDI from '@/components/ProfilePictureDI';
 
 
 export default function Post({
@@ -18,8 +18,9 @@ export default function Post({
     postData: {
       title: string
       date: string
-      meta: string
-      members: any
+      firstname: string
+      lastname: string
+      profile_img: string
       contentHtml: string
       miro: string
     }
@@ -27,7 +28,7 @@ export default function Post({
     return (
       <Container>
         <Head>
-          <title>{postData.title}</title>
+          <title>{postData.title} | EXPO CMD MINOR: DI</title>
         </Head>
         <Main>
 
@@ -39,12 +40,17 @@ export default function Post({
             </a>
           </Link>
           <article className="container max-w-full bg-white bg-opacity-95 text-black-85 p-4 m-4 rounded-xl">
-            <header>
-
-
+            <header className="text-center mt-10">
+                <figure className="rounded-full h-40 w-40  m-auto overflow-hidden shadow-md">
+                  <ProfilePictureDI src={ postData.profile_img }></ProfilePictureDI>
+                </figure>
+                <h1 className="text-5xl font-black uppercase text-green-400 mt-5 mb-10">{postData.firstname} {postData.lastname}</h1>
             </header>
-            <h1 className="text-5xl font-black uppercase">{postData.title}</h1>
-            <h2>{postData.meta}</h2>
+            
+            <section className="flex flex-wrap justify-center my-10">
+                <h3 className="uppercase text-xs text-purple-600 font-bold w-full text-center ">How Might We</h3>
+                <h2 className="font-light italic text-xl text-gray-800 text-center w-4/5">""</h2>
+            </section>
           
             <section className="container max-w-full" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
 

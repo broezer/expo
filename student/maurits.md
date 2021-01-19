@@ -3,7 +3,7 @@ title: 'Maurits'
 firstname: 'Maurits'
 lastname: 'Sterrenburg'
 date: '2020-01-13'
-profile-img: 'Maurits'
+profile_img: 'Maurits'
 miro: 'o9J_lYu1mD4'
 
 ---

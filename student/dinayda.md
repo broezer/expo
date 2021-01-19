@@ -3,7 +3,7 @@ title: 'Dinayda'
 firstname: 'Dinayda'
 lastname: 'Augusta'
 date: '2020-01-13'
-profile-img: 'Dinayda'
+profile_img: 'Dinayda'
 miro: 'o9J_lYvyMAw'
 
 ---

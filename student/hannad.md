@@ -1,7 +1,7 @@
 ---
 title: 'Hannad Ahmed'
 date: '2020-01-13'
-profile-img: 'Hannad Color'
+profile_img: 'Hannad Color'
 miro: 'o9J_lYvyMKM'
 
 ---

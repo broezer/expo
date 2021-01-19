@@ -3,7 +3,7 @@ title: 'Ruby'
 firstname: 'Ruby'
 lastname: 'Dijkshoorn'
 date: '2020-01-13'
-profile-img: 'RubyDijkshoorn'
+profile_img: 'RubyDijkshoorn'
 miro: 'o9J_lYu1mcQ'
 
 ---

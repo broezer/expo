@@ -3,7 +3,7 @@ title: 'Chantal S'
 firstname: 'Chantal'
 lastname: 'Sluer'
 date: '2020-01-13'
-profile-img: 'ChantalS'
+profile_img: 'ChantalS'
 miro: 'o9J_lYvyM5A'
 
 ---

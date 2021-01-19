@@ -3,7 +3,7 @@ title: 'Dong Ye'
 firstname: 'Dong Ye'
 lastname: 'Kloppenburg'
 date: '2020-01-13'
-profile-img: 'Dong_Ye'
+profile_img: 'Dong_Ye'
 miro: 'o9J_lYvyMDc'
 
 ---

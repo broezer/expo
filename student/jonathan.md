@@ -3,7 +3,7 @@ title: 'Jonathan'
 firstname: 'Jonathan'
 lastname: 'van den Broek'
 date: '2020-01-13'
-profile-img: 'Jonathan_vandenBroek_alt'
+profile_img: 'Jonathan_vandenBroek_alt'
 miro: 'o9J_lYv6E64'
 
 ---
