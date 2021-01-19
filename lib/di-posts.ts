@@ -28,7 +28,7 @@ export function getSortedDIPostsData() {
   })
   // Sort posts by date
   return allDIPostsData.sort((a, b) => {
-    if (a.date < b.date) {
+    if (a.title > b.title) { //Change order by alphabet
       return 1
     } else {
       return -1

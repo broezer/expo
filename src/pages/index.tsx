@@ -91,7 +91,7 @@ const Home: NextPage<IProps> = ({allPostsData, allDIPostsData}) => {
           </ul>
           <h2 className="text-purple-600 uppercase text-sm font-black">Designful Innovation</h2>
           <ul className="container no-underline flex flex-wrap  justify-start text-white">
-            {allDIPostsData.map(({ id, date, title }) => (
+            {allDIPostsData.map(({ id, title }) => (
               <li key={id} className="py-2 px-3 text-xl font-medium  hover:text-purple-600 transition duration-300 ease-in-out">
                 <Link href={`/student/${id}`}>
                   <a>{title}</a>
