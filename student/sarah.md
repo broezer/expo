@@ -5,6 +5,8 @@ lastname: 'Kramer'
 date: '2020-01-13'
 profile_img: 'Sarah-0944491'
 miro: 'o9J_lYu1me0'
+hmw: 'inform young-adults and turn the negative associations towards our own waste into positive ones?'
+theme: 'Circular Economy'
 
 ---
 

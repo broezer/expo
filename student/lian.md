@@ -5,6 +5,8 @@ lastname: 'van Rooij'
 date: '2020-01-13'
 profile_img: 'LianvanRooij'
 miro: 'o9J_lYv6EIQ'
+hmw: 'make it more accessible for people to shop based on the different circular aspects of a product?'
+theme: 'Circular Economy'
 
 ---
 

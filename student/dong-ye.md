@@ -5,6 +5,8 @@ lastname: 'Kloppenburg'
 date: '2020-01-13'
 profile_img: 'Dong_Ye'
 miro: 'o9J_lYvyMDc'
+hmw: 'easily let go of our thoughts during the day and before going to sleep in response to our tension level?'
+theme: 'Health & Well-being'
 
 ---
 

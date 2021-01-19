@@ -5,6 +5,8 @@ lastname: 'Lazaroms'
 date: '2020-01-13'
 profile_img: 'Anne'
 miro: 'o9J_lYvh-l0'
+hmw: 'Create an atmosphere with more personal contact to share and express our feelings and emotions?'
+theme: 'Healt & Well-being'
 
 ---
 

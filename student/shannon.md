@@ -5,6 +5,8 @@ lastname: 'Pronk'
 date: '2020-01-13'
 profile_img: 'shannon'
 miro: 'o9J_lYu1mbY'
+hmw: 'How might we create more spaces for the dog's natural behavior and communication?'
+theme: 'Health & Wellbeing'
 
 
 ---

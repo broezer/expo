@@ -5,6 +5,8 @@ lastname: 'Hussein'
 date: '2020-01-13'
 profile_img: 'IsmailHussein'
 miro: 'o9J_lYvyMRw'
+hmw: 'improve the living environment of the residents living in high-risk areas affected by extreme weather events?'
+theme: 'Resilient Living'
 
 ---
 

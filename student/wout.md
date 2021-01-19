@@ -5,6 +5,8 @@ lastname: 'Verstegen'
 date: '2020-01-13'
 profile_img: 'Wout'
 miro: 'o9J_lYu1nug'
+hmw: 'we use green energy to comfort travellers after a long day?'
+theme: 'Circular Economy'
 
 
 ---

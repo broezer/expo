@@ -5,6 +5,8 @@ lastname: 'van Hagen'
 date: '2020-01-13'
 profile_img: 'DavidvanHagen'
 miro: 'o9J_lYvyMGM'
+hmw: 'realize a personalized way to improve our overall health through more healthy nutrition?'
+theme: 'Health & Wellbeing'
 
 ---
 

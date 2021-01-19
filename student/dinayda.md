@@ -5,6 +5,8 @@ lastname: 'Augusta'
 date: '2020-01-13'
 profile_img: 'Dinayda'
 miro: 'o9J_lYvyMAw'
+hmw: 'emove and control the stress/risk factors of diabetics on a simple and reliable manner? '
+theme: 'Health & Wellbeing'
 
 ---
 

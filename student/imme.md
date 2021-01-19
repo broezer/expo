@@ -5,6 +5,8 @@ lastname: 'de Geus'
 date: '2020-01-13'
 profile_img: 'Imme'
 miro: 'o9J_lYvyMUA'
+hmw: 'create knowledge and acceptance of each other's / different cultures?'
+theme: 'Inclusive Society'
 
 ---
 

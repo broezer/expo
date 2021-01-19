@@ -5,6 +5,8 @@ lastname: Hirschfeld'
 date: '2020-01-13'
 profile_img: 'Leroy'
 miro: 'o9J_lYv6ED8'
+hmw: 'gain awareness to people of the ciritcal situation of Earth we are facing?'
+theme: 'Circular Economy'
 
 ---
 

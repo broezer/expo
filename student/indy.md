@@ -5,6 +5,9 @@ lastname: 'van Overdijk'
 date: '2020-01-13'
 profile_img: 'Indy'
 miro: 'o9J_lYvyMXc'
+hmw: 'introduce people to fitness in a new and efficient way?'
+theme: 'Health & Well-being'
+
 
 ---
 

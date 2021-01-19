@@ -5,6 +5,8 @@ lastname: 'Voestermans'
 date: '2020-01-13'
 profile_img: 'Jasmijn'
 miro: 'o9J_lYvyMeQ'
+hmw: 'help people with Panic Disorder calm down when they experience a panic/anxiety attack?'
+theme: 'Health & Wellbeing'
 
 ---
 

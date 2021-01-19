@@ -5,7 +5,8 @@ lastname: 'Scheer'
 date: '2020-01-13'
 profile_img: 'vanna'
 miro: 'o9J_lYu1niI'
-
+hmw: 'create an impactful movement allowing youth to interactively eliminate their taboos?'
+theme: 'Inclusive Society'
 
 ---
 

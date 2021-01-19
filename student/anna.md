@@ -5,6 +5,8 @@ lastname: 'Lecaros Gonzalez'
 date: '2020-01-13'
 profile_img: 'AnnaLecaros'
 miro: 'o9J_lYvh-zo'
+hmw: 'create awareness about the environmental harms of film-photography?'
+theme: 'Circular Economy'
 
 ---
 

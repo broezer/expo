@@ -5,6 +5,8 @@ lastname: 'Refos'
 date: '2020-01-13'
 profile_img: 'Lorenzo_foto'
 miro: 'o9J_lYv_8rY'
+hmw: 'give people on a budget who want to be sustainable a more affordable option?'
+theme: 'Circular Economy'
 
 ---
 

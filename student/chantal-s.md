@@ -5,6 +5,8 @@ lastname: 'Sluer'
 date: '2020-01-13'
 profile_img: 'ChantalS'
 miro: 'o9J_lYvyM5A'
+hwm: 'use technology to recreate a live experience at a location that’s not the event itself?'
+theme: 'Future Business'
 
 ---
 
