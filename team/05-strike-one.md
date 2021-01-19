@@ -16,6 +16,8 @@ members:
         img: ilham
 casestudy: 'https://strike-one.webflow.io/'
 miro: 'o9J_lZfVDns' 
+teams: 'https://teams.microsoft.com/l/meetup-join/19%3ab87b8849d1b24ebdbcb2a8ca7dc6ac66%40thread.tacv2/1611095156948?context=%7b%22Tid%22%3a%22ca6fbace-7cba-4d53-8681-a06284f7ff46%22%2c%22Oid%22%3a%22100e5047-8c80-4681-bea6-926cb60256f0%22%7d'
+
 ---
 
 

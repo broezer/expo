@@ -14,6 +14,8 @@ members:
         img: DSC_1265
 casestudy: 'http://www.kayvdg.nl/sitedish/'
 miro: 'o9J_lZfLFSY'
+teams: 'https://teams.microsoft.com/l/meetup-join/19%3ac8d11b004890435395ef0e75b27aba33%40thread.tacv2/1611094767841?context=%7b%22Tid%22%3a%22ca6fbace-7cba-4d53-8681-a06284f7ff46%22%2c%22Oid%22%3a%22100e5047-8c80-4681-bea6-926cb60256f0%22%7d'
+
 ---
 
 
