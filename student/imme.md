@@ -3,6 +3,7 @@ title: 'Imme'
 firstname: 'Imme'
 lastname: 'de Geus'
 date: '2020-01-13'
+profile-img: 'Imme'
 miro: 'o9J_lYvyMUA'
 
 ---

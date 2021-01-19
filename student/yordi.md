@@ -3,6 +3,7 @@ title: 'Yordi'
 firstname: 'Yordi'
 lastname: 'van Leeuwen'
 date: '2020-01-13'
+profile-img: 'Yordi'
 miro: 'o9J_lYu1npU'
 
 

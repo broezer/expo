@@ -3,6 +3,7 @@ title: 'Lianne'
 firstname: 'Lianne'
 lastname: 'van Gaalen'
 date: '2020-01-13'
+profile-img: 'Lianne_Color'
 miro: 'o9J_lYv6EIQ'
 
 ---

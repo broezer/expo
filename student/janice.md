@@ -3,6 +3,7 @@ title: 'Janice'
 firstname: 'Janice'
 lastname: 'Hamen'
 date: '2020-01-13'
+profile-img: 'Janice'
 miro: 'o9J_lYvyMcc'
 
 ---

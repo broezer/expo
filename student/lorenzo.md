@@ -3,6 +3,7 @@ title: 'Lorenzo'
 firstname: 'Lorenzo'
 lastname: 'Refos'
 date: '2020-01-13'
+profile-img: 'Lorenzo_foto'
 miro: 'o9J_lYv_8rY'
 
 ---

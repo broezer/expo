@@ -3,6 +3,7 @@ title: 'Ismail'
 firstname: 'Ismail'
 lastname: 'Hussein'
 date: '2020-01-13'
+profile-img: 'IsmailHussein'
 miro: 'o9J_lYvyMRw'
 
 ---

@@ -3,6 +3,7 @@ title: 'Dylan'
 firstname: 'Dylan'
 lastname: 'Rademaker'
 date: '2020-01-13'
+profile-img: 'Dylan_'
 miro: 'o9J_lYvyMNM'
 
 ---

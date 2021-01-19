@@ -3,6 +3,7 @@ title: 'Vanna'
 firstname: 'Vanna'
 lastname: 'Scheer'
 date: '2020-01-13'
+profile-img: 'vanna'
 miro: 'o9J_lYu1niI'
 
 

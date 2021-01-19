@@ -3,6 +3,7 @@ title: 'Barry'
 firstname: 'Barry'
 lastname: 'Olierhoek'
 date: '2020-01-13'
+profile-img: 'BarryPF'
 miro: 'o9J_lYvyM2E'
 
 ---

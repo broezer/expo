@@ -3,6 +3,7 @@ title: 'Quinty'
 firstname: 'Quinty'
 lastname: 'Leeuwenburg'
 date: '2020-01-13'
+profile-img: 'Quinty'
 miro: 'o9J_lYu1mXM'
 
 ---

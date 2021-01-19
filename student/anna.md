@@ -3,6 +3,7 @@ title: 'Anna'
 firstname: 'Anna'
 lastname: 'Lecaros Gonzalez'
 date: '2020-01-13'
+profile-img: 'AnnaLecaros'
 miro: 'o9J_lYvh-zo'
 
 ---

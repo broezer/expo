@@ -3,6 +3,7 @@ title: 'Nick'
 firstname: 'Nick'
 lastname: 'Clowting'
 date: '2020-01-13'
+profile-img: 'Nick' 
 miro: 'o9J_lYu1mUE'
 
 ---

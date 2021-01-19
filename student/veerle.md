@@ -3,6 +3,7 @@ title: 'Veerle'
 firstname: 'Veerle'
 lastname: 'Kommeren'
 date: '2020-01-13'
+profile-img: 'Veerle01'
 miro: 'o9J_lYu1ns8'
 
 

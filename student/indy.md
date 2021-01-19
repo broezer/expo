@@ -3,6 +3,7 @@ title: 'Indy'
 firstname: 'Indy'
 lastname: 'van Overdijk'
 date: '2020-01-13'
+profile-img: 'Indy'
 miro: 'o9J_lYvyMXc'
 
 ---

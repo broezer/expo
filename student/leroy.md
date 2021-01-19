@@ -3,6 +3,7 @@ title: 'Leroy'
 firstname: 'Leroy'
 lastname: Hirschfeld'
 date: '2020-01-13'
+profile-img: 'Leroy'
 miro: 'o9J_lYv6ED8'
 
 ---
