@@ -6,7 +6,7 @@ date: '2020-01-13'
 profile_img: 'Yordi'
 miro: 'o9J_lYu1npU'
 hmw: 'create a more interactive and memorable way for long-distance loved ones to create closeness and memories?'
-theme: 'Smart Living'
+theme: 'Smart & Resilient Living'
 visual: 'YordivanLeeuwen_Visual'
 
 ---

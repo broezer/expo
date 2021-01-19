@@ -6,7 +6,7 @@ date: '2020-01-13'
 profile_img: 'Amy_kleur'
 miro: 'o9J_lYvh-1o'
 hmw: 'ensure that young people (Gen Z and late millennials) become aware of the fact that beauty standards are not always realistic to live up to?'
-theme: 'Health & Well-Being'
+theme: 'Health & Well-being'
 visual: 'Amy Durusma Booklet Visual'
 
 ---

@@ -6,7 +6,7 @@ date: '2020-01-13'
 profile_img: 'Jonathan_vandenBroek_alt'
 miro: 'o9J_lYv6E64'
 hmw: 'make young adults more focussed?'
-theme: 'Health & Wellbeing'
+theme: 'Health & Well-being'
 visual: 'jonathanvandenbroek_bookletvisual'
 
 ---

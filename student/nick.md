@@ -6,7 +6,7 @@ date: '2020-01-13'
 profile_img: 'Nick' 
 miro: 'o9J_lYu1mUE'
 hmw: 'make the experience at home more personal and create a smaller gap between the producer and consumers?'
-theme: 'Smart Resilient Living'
+theme: 'Smart & Resilient Living'
 visual: 'Nick_Visual_Booklet'
 
 ---

@@ -7,7 +7,7 @@ date: '2020-01-13'
 profile_img: 'shannon'
 miro: 'o9J_lYu1mbY'
 hmw: 'create more spaces for the dog''s natural behavior and communication?'
-theme: 'Health & Wellbeing'
+theme: 'Health & Well-being'
 visual: 'shannon pronk booklet'
 
 ---

@@ -28,6 +28,7 @@ export default function Post({
       miro: string
       hmw: string
       visual: string
+      theme: string
     }
   }) {
     return (
@@ -49,10 +50,15 @@ export default function Post({
                 <figure className="rounded-full h-40 w-40  m-auto overflow-hidden shadow-md">
                   <ProfilePictureDI src={ postData.profile_img }></ProfilePictureDI>
                 </figure>
-                <h1 className="text-5xl font-black uppercase text-green-400 mt-5 mb-10">{postData.firstname} {postData.lastname}</h1>
+                <h1 className="text-5xl font-black uppercase text-green-400 mt-5 mb-5">{postData.firstname} {postData.lastname}</h1>
+                <h2 className="text-xs mb-10 text-gray-800">
+                  <span className="lowercase font-light">Theme: </span>
+                  <span className="font-bold">{postData.theme}</span>
+                </h2>
             </header>
             
             <section className="flex flex-wrap justify-center my-10">
+                
                 <h2 className="font-light italic text-xl text-gray-800 text-center w-4/5">"<span className="text-purple-600">How might we </span> <span className="font-semibold">{postData.hmw}</span>"</h2>
             </section>
           

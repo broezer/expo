@@ -6,7 +6,7 @@ date: '2020-01-13'
 profile_img: 'DaniëlleBroekhuizen'
 miro: 'o9J_lYvyMEY'
 hmw: 'reduce stress, anxiety and depression with technology within a home?'
-theme: 'Health & Wellbeing'
+theme: 'Health & Well-being'
 visual: 'DaniëlleBroekhuizen-Booklet-Visuals'
 
 ---

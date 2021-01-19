@@ -6,7 +6,7 @@ date: '2020-01-13'
 profile_img: 'Dylan_'
 miro: 'o9J_lYvyMNM'
 hmw: 'get second opinions more easily available for General Practitioners to get more valid information and perspectives while constructing their first diagnosis?'
-theme: 'Health & Wellbeing'
+theme: 'Health & Well-being'
 visual: 'DylanRademaker_Visual'
 
 ---

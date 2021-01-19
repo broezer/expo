@@ -6,7 +6,7 @@ date: '2020-01-13'
 profile_img: 'Kevin'
 miro: 'o9J_lYv6EBU'
 hmw: 'make smart products available for elderly people?'
-theme: 'Smart Living'
+theme: 'Smart & Resilient Living'
 visual: 'KevinHoogland_Visual'
 
 ---
