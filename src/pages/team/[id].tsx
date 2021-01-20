@@ -1,4 +1,5 @@
 import { getAllPostIds, getPostData } from '../../../lib/posts';
+
 import Head from 'next/head';
 import Link from 'next/link';
 import React, {Fragment} from 'react';
@@ -92,7 +93,11 @@ export default function Post({
           </article>
           
         </Main>
+
+        
       </Container>
+
+      
     )
   }
   
@@ -112,3 +117,7 @@ export default function Post({
       }
     }
   }
+
+
+
+  

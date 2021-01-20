@@ -7,7 +7,6 @@ import 'tailwindcss/dist/tailwind.css';
 
 
 import Container from '@/components/Container';
-import Grid from '@/components/Grid';
 import Main from '@/components/Main';
 
 
@@ -101,9 +100,6 @@ const Home: NextPage<IProps> = ({allPostsData, allDIPostsData}) => {
               </li>
             ))}
           </ul>
-          <Grid>
-            
-          </Grid>
         </Main>
 
        
