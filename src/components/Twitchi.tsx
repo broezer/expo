@@ -3,8 +3,8 @@ import styled from 'styled-components';
 import 'tailwindcss/dist/tailwind.css';
 
 const AsideWrapper = styled.aside`
-  min-width: 32vw;
-  max-width: 32vw;
+  min-width: 30vw;
+  max-width: 30vw;
   min-height: 19vw;
   background: rgba(0, 0, 0, 0.9);
   border-radius: 10px;
