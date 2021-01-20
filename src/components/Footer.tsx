@@ -26,7 +26,7 @@ const Footer: FC = () => (
   <FooterWrapper>
     <h2 className="uppercase text-green-400 text-xs">How to</h2>
     <p className="text-base text-white font-light">Gebruik de site als portal naar projecten van de studenten.
-      Via Twitch kan je de livestream volgen. 
+      Via Twitch kan je de livestream volgen. Meedoen via MS Teams? Mail [a.w.hogenboom@hr.nl] om toegevoegd te worden als gast.
     </p>
   </FooterWrapper>
 );
