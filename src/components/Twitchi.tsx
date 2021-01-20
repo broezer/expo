@@ -16,7 +16,7 @@ const AsideWrapper = styled.aside`
   justify-content: center;
   align-items: center;
   position: fixed;
-  top: 2vw;
+  top: 15vh;
   right: 1vw;
 `;
 
