@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 const Main = styled.main`
-  min-width: 90vw;
-  max-width: 90vw;
+  min-width: 70vw;
+  max-width: 70vw;
   min-height: 80vh;
   background: rgba(0, 0, 0, 0.9);
   border-radius: 10px;
