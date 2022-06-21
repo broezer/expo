@@ -1,6 +1,6 @@
 import React from 'react';
 import { createGlobalStyle, ThemeProvider } from 'styled-components';
-import 'tailwindcss/dist/tailwind.css';
+import '../styles/globals.css'
 
 import Video from '@/components/Video';
 import Twitchi from '@/components/Twitchi';

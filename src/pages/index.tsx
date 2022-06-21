@@ -4,7 +4,6 @@ import Head from 'next/head';
 import Link from 'next/link';
 import React from 'react';
 import Waypoint from 'react-waypoint';
-import 'tailwindcss/dist/tailwind.css';
 
 
 import Container from '@/components/Container';
